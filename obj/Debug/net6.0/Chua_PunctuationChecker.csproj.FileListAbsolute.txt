@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\bin\Debug\net6.0\Chua_PunctuationChecker.exe
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\bin\Debug\net6.0\Chua_PunctuationChecker.deps.json
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\bin\Debug\net6.0\Chua_PunctuationChecker.runtimeconfig.json
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\bin\Debug\net6.0\Chua_PunctuationChecker.dll
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\bin\Debug\net6.0\Chua_PunctuationChecker.pdb
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.AssemblyInfo.cs
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.dll
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\refint\Chua_PunctuationChecker.dll
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.pdb
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\Chua_PunctuationChecker.genruntimeconfig.cache
+C:\Users\USER\Documents\CS345\Chua_PunctuationChecker\obj\Debug\net6.0\ref\Chua_PunctuationChecker.dll
